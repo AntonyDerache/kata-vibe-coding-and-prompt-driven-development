@@ -34,7 +34,14 @@ Produce a random spinning wheel.
 - Feel free to use any other front frameworks you feel at ease with.
 - Feel free to use any AI tool you wish to try for this exercice.
 
-## Developing
+### branches
+
+you have 2 branches so you can separate and keep your trace of work
+
+- vide-coding
+- prompt-driven-development
+
+## Start Developing
 
 Once you've created a project and installed dependencies with `npm install`
 
